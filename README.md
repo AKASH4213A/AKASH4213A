@@ -18,4 +18,4 @@ I'm a passionate learner and developer currently pursuing my studies in Computer
 
 #### 📫 Let's Connect:
 - 💬 Always up for tech chats, collaboration, or poster design ideas!
-- 🔗 [LinkedIn (optional if you want to add)](www.linkedin.com/in/akash-ahirwar-50292a309)
+- www.linkedin.com/in/akash-ahirwar-50292a309
