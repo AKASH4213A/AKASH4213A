@@ -1,12 +1,21 @@
-- 👋 Hi, I’m @AKASH4213A
-- 👀 I’m interested in web development and  software Engineering 
-- 🌱 I’m currently learning Cpp
-- 💞️ I’m looking to collaborate on
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
-<!---
-AKASH4213A/AKASH4213A is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+### 👋 Hi, I’m Akash!
+
+I'm a passionate learner and developer currently pursuing my studies in Computer Science and Engineering. I enjoy building things for the web, exploring system-level programming, and designing visually appealing digital content.
+- 🌐 Frontend Web Development (HTML, CSS, JavaScript)
+
+#### 🛠️ Tools & Tech I Use:
+- VS Code, Git & GitHub
+- Web Design (Figma, Canva, Poster Design)
+- Frontend Development
+- Basic Java, C++ . 
+
+#### 🎯 Goals:
+- Build real-world projects that combine creativity and logic
+- Contribute to open-source and collaborative development
+- Deepen my knowledge of low-level programming and system design
+
+#### 📫 Let's Connect:
+- 💬 Always up for tech chats, collaboration, or poster design ideas!
+- 🔗 [LinkedIn (optional if you want to add)](www.linkedin.com/in/akash-ahirwar-50292a309)
