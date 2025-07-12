@@ -6,10 +6,15 @@ I'm a passionate learner and developer currently pursuing my studies in Computer
 - 🌐 Frontend Web Development (HTML, CSS, JavaScript)
 
 #### 🛠️ Tools & Tech I Use:
+
+- Familiar With AI-Builds Websites
 - VS Code, Git & GitHub
 - Web Design (Figma, Canva, Poster Design)
 - Frontend Development
-- Basic Java, C++ . 
+- PhotoShop, PremeierePro
+- Office Tools
+- Basic Java, C++ .
+ 
 
 #### 🎯 Goals:
 - Build real-world projects that combine creativity and logic
